@@ -1,0 +1,22 @@
+﻿uses graphabc;
+begin
+setpencolor(clsilver);
+circle(50,200,10);
+setpencolor(clsilver);
+circle(80,200,10);
+setpencolor(clsilver);
+circle(110,200,10);
+setpencolor(clblue);
+circle(140,200,10);
+setpencolor(clblue);
+circle(170,200,10);
+setpencolor(clblue);
+circle(200,200,10);
+setpencolor(clred);
+circle(230,200,10);
+setpencolor(clred);
+circle(260,200,10);
+setpencolor(clred);
+circle(290,200,10);
+setpencolor(clred);
+end.
